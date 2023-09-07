@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-07T15:09:31 IST" name="Suite1" finished-at="2023-09-07T15:09:44 IST" duration-ms="13038">
+    <groups>
+    </groups>
+    <test started-at="2023-09-07T15:09:31 IST" name="Test1" finished-at="2023-09-07T15:09:44 IST" duration-ms="13038">
+      <class name="demo.AutoIt">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:demo.AutoIt@1a677343]" started-at="2023-09-07T15:09:31 IST" name="setUp" finished-at="2023-09-07T15:09:34 IST" duration-ms="2581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test()[pri:0, instance:demo.AutoIt@1a677343]" started-at="2023-09-07T15:09:34 IST" name="test" finished-at="2023-09-07T15:09:44 IST" duration-ms="10198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:demo.AutoIt@1a677343]" started-at="2023-09-07T15:09:44 IST" name="tearDown" finished-at="2023-09-07T15:09:44 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demo.AutoIt -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>

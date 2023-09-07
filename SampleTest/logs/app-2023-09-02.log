@@ -1,0 +1,27 @@
+[INFO ] 2023-09-02 15:47:33.205 [main] Log4JDemo - This is an Information message
+[ERROR] 2023-09-02 15:47:33.212 [main] Log4JDemo - This is an Error message
+[WARN ] 2023-09-02 15:47:33.212 [main] Log4JDemo - This is a Warning message
+[FATAL] 2023-09-02 15:47:33.212 [main] Log4JDemo - This is a Fatal message
+[INFO ] 2023-09-02 15:48:54.944 [main] Log4JDemo - This is an Information message
+[ERROR] 2023-09-02 15:48:54.950 [main] Log4JDemo - This is an Error message
+[WARN ] 2023-09-02 15:48:54.950 [main] Log4JDemo - This is a Warning message
+[FATAL] 2023-09-02 15:48:54.950 [main] Log4JDemo - This is a Fatal message
+[INFO ] 2023-09-02 15:49:16.304 [main] Log4JDemo - This is an Information message
+[ERROR] 2023-09-02 15:49:16.311 [main] Log4JDemo - This is an Error message
+[WARN ] 2023-09-02 15:49:16.312 [main] Log4JDemo - This is a Warning message
+[FATAL] 2023-09-02 15:49:16.312 [main] Log4JDemo - This is a Fatal message
+[INFO ] 2023-09-02 15:54:53.178 [main] Log4JDemo - This is an Information message
+[ERROR] 2023-09-02 15:54:53.185 [main] Log4JDemo - This is an Error message
+[WARN ] 2023-09-02 15:54:53.186 [main] Log4JDemo - This is a Warning message
+[FATAL] 2023-09-02 15:54:53.186 [main] Log4JDemo - This is a Fatal message
+[TRACE] 2023-09-02 15:55:49.992 [main] Log4JDemo - This is a Trace message
+[INFO ] 2023-09-02 15:55:50.003 [main] Log4JDemo - This is an Information message
+[ERROR] 2023-09-02 15:55:50.003 [main] Log4JDemo - This is an Error message
+[WARN ] 2023-09-02 15:55:50.003 [main] Log4JDemo - This is a Warning message
+[FATAL] 2023-09-02 15:55:50.004 [main] Log4JDemo - This is a Fatal message
+[ERROR] 2023-09-02 15:57:24.229 [main] Log4JDemo - This is an Error message
+[FATAL] 2023-09-02 15:57:24.235 [main] Log4JDemo - This is a Fatal message
+[INFO ] 2023-09-02 15:57:57.302 [main] Log4JDemo - This is an Information message
+[ERROR] 2023-09-02 15:57:57.309 [main] Log4JDemo - This is an Error message
+[WARN ] 2023-09-02 15:57:57.309 [main] Log4JDemo - This is a Warning message
+[FATAL] 2023-09-02 15:57:57.309 [main] Log4JDemo - This is a Fatal message

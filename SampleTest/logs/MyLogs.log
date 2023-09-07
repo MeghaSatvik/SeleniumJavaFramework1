@@ -1,0 +1,5 @@
+[TRACE] 2023-09-02 15:37:23.764 [main] Log4JDemo - This is a Trace message
+[INFO ] 2023-09-02 15:37:23.769 [main] Log4JDemo - This is an Information message
+[ERROR] 2023-09-02 15:37:23.770 [main] Log4JDemo - This is an Error message
+[WARN ] 2023-09-02 15:37:23.770 [main] Log4JDemo - This is a Warning message
+[FATAL] 2023-09-02 15:37:23.770 [main] Log4JDemo - This is a Fatal message
